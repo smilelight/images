@@ -1,5 +1,5 @@
 @echo off
 git add .
-git commit
+git commit -m "change the images"
 git push
 echo on
